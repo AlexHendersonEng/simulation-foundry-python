@@ -1,7 +1,7 @@
 [project]
-name = "simulation-foundry-python"
+name = "simulation-foundry-analyse"
 version = "0.1.0"
-description = "Simulation Foundry Python"
+description = "Simulation Foundry Analyse"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
